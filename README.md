@@ -1,0 +1,2 @@
+# screenshot-button-privacy-policy
+スクショボタンのプライバシーポリシーのGithubPageホスト用
